@@ -1,0 +1,7 @@
+Nama =     input ('Masukan nama      :')
+Nim  =     input ('Masukan nim       :')
+Angkatan = input ('Masukan angkatan  :')
+print ('DATA DIRI')
+print ('Nama    :',    Nama)
+print ('Nim     :',    Nim )
+print ('Angkatan:',Angkatan)
